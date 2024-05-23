@@ -7,7 +7,7 @@ Repositório original [aqui](https://github.com/simplify-tec/desafio-junior-back
 
 ## 📑 Índice
 - [Tecnologias](#-tecnologias)
-- [Metodologias Implementadas](#-metodologias-implementadas)
+- [Metodologias](#-metodologias)
 - [Funcionalidades](#-funcionalidades)
 - [Como Utilizar](#-como-utilizar)
 
@@ -20,7 +20,7 @@ Repositório original [aqui](https://github.com/simplify-tec/desafio-junior-back
 - [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 - [Spring Doc OpenAPI 3](https://springdoc.org/)
 
-## ⚙️ Metodologias Implementadas
+## ⚙️ Metodologias
 - API REST
 - Consultas com Spring Data JPA
 - Geração automática do Swagger com a OpenAPI 3
