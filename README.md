@@ -12,9 +12,9 @@ Repositório original [aqui](https://github.com/simplify-tec/desafio-junior-back
 
 
 ## 📑 ÍNDICE
-- [Tecnologias](#-tecnologias)
-- [Metodologias](#-metodologias)
-- [Funcionalidades](#-funcionalidades)
+- [Tecnologias](#-TECNOLOGIAS)
+- [Metodologias](#-METODOLOGIAS)
+- [Funcionalidades](#-FUNCIONALIDADES)
 - [Como Utilizar](#-COMO-UTILIZAR)
 
 ## 🛠️ TECNOLOGIAS
