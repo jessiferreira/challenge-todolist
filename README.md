@@ -5,19 +5,12 @@
 [![Generic badge](https://img.shields.io/badge/Tipo-Desafio-C2078F.svg)](https://shields.io/)&nbsp;
 [![Generic badge](https://img.shields.io/badge/Status-Concluído-C2078F.svg)](https://shields.io/)&nbsp;
 
-## 📖 DESCRIÇÃO
+## 📖 Descrição
 API para gestão de tarefas, desenvolvida como parte do desafio para candidatos a 
 desenvolvedores back-end júnior na Simplify.
 Repositório original [aqui](https://github.com/simplify-tec/desafio-junior-backend-simplify).
 
-
-## 📑 ÍNDICE
-- [Tecnologias](#-TECNOLOGIAS)
-- [Metodologias](#-METODOLOGIAS)
-- [Funcionalidades](#-FUNCIONALIDADES)
-- [Como Utilizar](#-COMO-UTILIZAR)
-
-## 🛠️ TECNOLOGIAS
+## 🛠️ Tecnologias
 - [IntelliJ IDEA](https://www.jetbrains.com/products/compare/?product=idea&product=idea-ce)
 - [Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
 - [MySQL](https://dev.mysql.com/downloads/)
@@ -26,20 +19,20 @@ Repositório original [aqui](https://github.com/simplify-tec/desafio-junior-back
 - [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 - [Spring Doc OpenAPI 3](https://springdoc.org/)
 
-## ⚙️ METODOLOGIAS
+## ⚙️ Metodologias
 - API REST
 - Consultas com Spring Data JPA
 - Geração automática do Swagger com a OpenAPI 3
 - Injeção de dependências
 - Tratamento de erros
 
-## 🔧 FUNCIONALIDADES
+## 🔧 Funcionalidades
 - __Criar Tarefa:__ Capacidade de criar uma nova tarefa com nome, descrição e prioridade;
 - __Listar Tarefas:__ Mostrar todas as tarefas existentes;
 - __Atualizar Tarefa:__ Atualizar o nome, descrição ou prioridade de uma tarefa existente;
 - __Excluir Tarefa:__ Remover uma tarefa existente.
 
-## 🎮 COMO UTILIZAR
+## 🎮 Como Utilizar
 1. Clonar o repositório Git
 2. Construir o projeto:
 ```
@@ -56,7 +49,7 @@ $ java -jar target/todolist-0.0.1-SNAPSHOT.jar
 4. Acessar a API em [localhost:8080](http://localhost:8080/)
 5. O Swagger poderá ser visualizado em [localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui/index.html)
 
-## 🛣️ API ENDPOINTS
+## 🛣️ API Endpoints
 Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [httpie](https://httpie.io/).
 1. Criar tarefas:
 ```
